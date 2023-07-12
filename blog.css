@@ -101,10 +101,10 @@ footer {
 }
 
 #mypicture {
-    width: 150px;
-    height: 200px;
+    width: 120px;
+    height: 150px;
     display: block;
-    float: left;
+    float: right;
     margin-right: 25px;
     margin-bottom: 30px;
     text-align: center;
@@ -139,4 +139,5 @@ footer {
     display: block;
     margin: 20px;
     padding: 20px;
+    background-color: #83DAEA;
 }
