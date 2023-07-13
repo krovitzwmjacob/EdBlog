@@ -180,3 +180,35 @@ a:link {
   a:active {
     text-decoration: none;
   }
+
+a.post:link {
+    text-decoration: none;
+    color: #009DBA;
+  }
+  
+a.post:visited {
+    text-decoration: none;
+    color: #007C93; 
+  }
+  
+a.post:hover {
+    text-decoration: none;
+    color: #00BF5E;
+  }
+
+a.post:active {
+    text-decoration: none;
+    /* color: blue; */
+  }
+
+#Note {
+    text-align: center;
+}
+
+.indent {
+    text-indent: 50px;
+}
+
+.audioplayer {
+    float: right;
+}
