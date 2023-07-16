@@ -182,22 +182,22 @@ a:link {
   }
 
 a.post:link {
-    text-decoration: none;
+    text-decoration: underline;
     color: #009DBA;
   }
   
 a.post:visited {
-    text-decoration: none;
+    text-decoration: underline;
     color: #007C93; 
   }
   
 a.post:hover {
-    text-decoration: none;
+    text-decoration: underline;
     color: #00BF5E;
   }
 
 a.post:active {
-    text-decoration: none;
+    text-decoration: underline;
     /* color: blue; */
   }
 
