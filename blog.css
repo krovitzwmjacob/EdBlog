@@ -165,41 +165,10 @@ footer {
     height: 40px;
 }
 
-a:link {
-    text-decoration: none;
-  }
-  
-  a:visited {
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: none;
-  }
-  
-  a:active {
-    text-decoration: none;
-  }
-
-a.post:link {
-    text-decoration: underline;
-    color: #009DBA;
-  }
-  
-a.post:visited {
-    text-decoration: underline;
-    color: #007C93; 
-  }
-  
-a.post:hover {
-    text-decoration: underline;
-    color: #00BF5E;
-  }
-
-a.post:active {
-    text-decoration: underline;
-    /* color: blue; */
-  }
+h3 {
+    margin-top: 0;
+    padding-left: 10px;
+}
 
 #Note {
     text-align: center;
