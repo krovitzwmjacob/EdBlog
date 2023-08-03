@@ -188,3 +188,14 @@ h3 {
 .citation {
     text-indent: 0;
 }
+
+#GoogleDrive {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.center {
+    text-align: center;
+}
